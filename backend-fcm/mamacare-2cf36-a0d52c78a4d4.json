@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "mamacare-2cf36",
+  "private_key_id": "a0d52c78a4d4fbb4f6d436794c9638b4ca818e44",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC1Jrc2pTdaz0pg\nuXgGOkFBHSjNe6i5yr7F0sE8GgEvQS90iICoPQP83rY/GG63ZAtcXm0IH1KblDWo\nzhSlSt86nmrMHHbTOnYsMv7txzDhKcEu1+W2OxdEZ/cck2CfbpETVYysyLwYx8tR\ndnG0uP3dZvhqvEQXw9TtI2mB6huEapLsNt7tRj+UcVszuRei/6U/0Q6XaJYNxta5\napcAWvOJXdfuULmtiIufBzkGuxLkCo7dGqI9M5lfYszNWDit4hgZujks5v1FWJnk\n6fL8iEa2mFRT7DZAD42MghdYYAuao0Pe8ynbKW1siWHGfIKLwebdszElrStqLq5v\nVC58yBoJAgMBAAECggEAAYyHEsUrIeBFoCnZ0kDPg8dkbMxewxbuFmowy4sj4TPv\nHFGZ+wZJiVEcsRGsCa6l77hheYkuB0VHR64abFblbX6DBoOESxZUAhj+B8m1G+nD\n3HsNXGdpMaUrbl++uuJCxI3t1eDiBdq4fPX0rzFJP2pE28HIGcVrhcsQmQMn0NQm\nRmmfqN/7gC2YMUTPjdw7jgr0Z3HytnTE5HxWgy9tVcuzXTqmXzm+zFnLMg8HfOE+\nEz9sEATt1wn7A6ejR5YwiyU//TcQ4VPy9aR1TcnTIp3f6PJhnQuXjHPBvbKQiE4z\nnp2bu77oZVyb4h3Hh62u6A/87Sflv54TJIt31MPLUQKBgQDV/8l4bk5+BcOQ2aMZ\nqV2xSKzUOQn25cR+T4tZ2HBE11bts77u8yHdtfC9ZjeF2gXOTDWYJMWvmE+Ls7RO\nm5fMJimAbvh1EqJ9P5IJYVvOeEQ+N+CjB9nuwowIpT3tA24BavfcaRZ/BlHNXXnX\np3f/QydPjRNMctEqaHxW1Fa3kQKBgQDYtILWtQm+Zn2nPOdrI1v7Q18vKi+5S/5N\nj73GxHfV8E/SVYQ2QYOe2R0V/bhZ+NbNtFueQGgJ4pFCheX1DBRx1HsEeoXuEGmT\nGJ47nCSRKvcqPB6Bm5eDBBF+XDHVGWnxu8WxcgJrnut2J/N3zWgTAVNo7OktBX5n\nP5yRQXuu+QKBgQCyA+6fnPr0gGz3sOOpdCc5U6BZhf1RAj+bZyYfnhl+Wre4Up7Q\n/TW9zhyuITqswPm1a9XlcylzcbsyFlI2Vd5Hd7NsYGOUV+UNVXVxEikhrw/txeO7\nGsvifrmoc3T5FbJLwaTgGBcbobEoqcqyZ2A92qn31f4oyRZQNczBGi/s0QKBgQCD\ngqiUXDGZluFSiKd4YXEEvxIYsWVc8j1WHJFy+vAuqTQH1VXzBzc1Q1VfbyZdk6Ho\nHDgthbCdrx2wXUn8uGP/4I73XNPCcbtgRWRhkJSwdH6i5vEsfpwoKmPjZ1fmlxGw\nXd/Pm/zUCxGiFwSuA73RKtDPsFaht9/KENSXYkIJIQKBgHwHVmXR0LR4E9Huoue0\nyRHfncSQJxMZPCWnP7BvCtLqBHjZRRzHzJsSx0rKqkNzUYHtPELMI2Tb1Exie5NI\nX2FqvJVVgx47kDqs6FDwsOb8FpGABoFAg7/VD+AMjL1QKbRkokFHiaO3FlgXdqra\nkTNUvH6Xyrxxxtmy2UEfQWQ3\n-----END PRIVATE KEY-----\n",
+  "client_email": "mamacare-2cf36@appspot.gserviceaccount.com",
+  "client_id": "101106225922756835289",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mamacare-2cf36%40appspot.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -1,0 +1,8 @@
+fastapi>=0.90.0
+uvicorn[standard]>=0.20.0
+scikit-learn>=1.1.0  # Ensure version compatibility with joblib files
+pandas>=1.4.0
+joblib>=1.1.0
+pydantic>=1.10.0
+numpy>=1.21.0
+python-dotenv>=0.20.0 # Optional, for environment variables if needed later

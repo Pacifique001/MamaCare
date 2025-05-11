@@ -1,0 +1,17 @@
+# .gitignore
+
+# Service Account Key (VERY IMPORTANT!)
+serviceAccountKey.json
+
+# Environment variables file
+.env
+
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE files
+.idea/
+.vscode/
